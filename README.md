@@ -126,3 +126,11 @@ After go to EC2 Load alancers, copy the link in a browser:
 and the app is up and running!
 
 <img width="861" alt="Screenshot 2024-09-19 at 21 50 14" src="https://github.com/user-attachments/assets/84dbf1e0-e7fd-49f9-b1b6-8a4f93d402d5">
+
+if you go to CloudFront and take the domain name, the website is also accessible over this domain:
+
+<img width="728" alt="Screenshot 2024-09-19 at 21 51 12" src="https://github.com/user-attachments/assets/0129354e-19d7-477a-ae16-66ce462a9c51">
+
+<img width="580" alt="Screenshot 2024-09-19 at 21 51 48" src="https://github.com/user-attachments/assets/d8ccef09-6267-411b-ac98-bd230ade6e38">
+
+<img width="848" alt="Screenshot 2024-09-19 at 21 52 25" src="https://github.com/user-attachments/assets/237989e9-b2c3-4064-8900-ba311f82a0bd">
