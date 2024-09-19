@@ -115,4 +115,14 @@ terraform plan
 terraform apply
 ```
 
-Type `yes`, and it will prompt you for approval..
+Type `yes`, and it will prompt you for approval
+
+After go to EC2 Load alancers, copy the link in a browser:
+
+
+<img width="890" alt="Screenshot 2024-09-19 at 21 49 35" src="https://github.com/user-attachments/assets/111cd299-7d94-4e30-b80d-b544d17eadae">
+
+
+and the app is up and running!
+
+<img width="861" alt="Screenshot 2024-09-19 at 21 50 14" src="https://github.com/user-attachments/assets/84dbf1e0-e7fd-49f9-b1b6-8a4f93d402d5">
