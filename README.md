@@ -131,6 +131,8 @@ if you go to CloudFront and take the domain name, the website is also accessible
 
 <img width="728" alt="Screenshot 2024-09-19 at 21 51 12" src="https://github.com/user-attachments/assets/0129354e-19d7-477a-ae16-66ce462a9c51">
 
+
 <img width="580" alt="Screenshot 2024-09-19 at 21 51 48" src="https://github.com/user-attachments/assets/d8ccef09-6267-411b-ac98-bd230ade6e38">
+
 
 <img width="848" alt="Screenshot 2024-09-19 at 21 52 25" src="https://github.com/user-attachments/assets/237989e9-b2c3-4064-8900-ba311f82a0bd">
